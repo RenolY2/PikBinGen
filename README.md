@@ -34,9 +34,9 @@ Keep an eye out for this page http://pikmintkb.shoutwiki.com/wiki/Pikmin_gen_cod
 
 ## FAQ
 * Q: How can I see where I put my objects without starting the game? <br>
-I uploaded all the models of Pikmin 1 courses as texture-less OBJs here, ripped straight from the mod files: https://mega.nz/#!edJ2yLLB!HGOsQh47yW--TtZg-bw_W90HKUC2_c6tmm3Ht7PjKO4
 
-* A: You can load them into my Pikmin 2 Routes editor which renders obj files top-down, or load it into any 3D modelling program you prefer, to figure out coordinates for objects. The routes editor can be found here: https://github.com/RenolY2/pikmin-tools/releases
+
+* A: I uploaded all the models of Pikmin 1 courses as texture-less OBJs here, ripped straight from the mod files: https://mega.nz/#!edJ2yLLB!HGOsQh47yW--TtZg-bw_W90HKUC2_c6tmm3Ht7PjKO4 You can load them into my Pikmin 2 Routes editor which renders obj files top-down, or load it into any 3D modelling program you prefer, to figure out coordinates for objects. The routes editor can be found here: https://github.com/RenolY2/pikmin-tools/releases
 
 
 # How to update
