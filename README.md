@@ -4,7 +4,7 @@ Tool for convertsion between Pikmin 1 binary gen files and (JSON formatted) text
 # Requirements
 * newest version of Python 3 
 
-The newest version as of the making of this file is 3.6.4: https://www.python.org/downloads/ <br>
+Recommended: Python 3.6.6 https://www.python.org/downloads/ <br>
 When installing it on Windows, make sure you check "Add Python to PATH" so that the included .bat files will work properly.
 
 # Usage
